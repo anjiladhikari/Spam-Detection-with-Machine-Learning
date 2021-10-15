@@ -14,4 +14,4 @@ a vector on the basis of the frequency (count)
   Multinomial Naive Bayes algorithm is a probabilistic 
  learning method that is mostly used in Natural Language 
  Processing (NLP)
- Detail : [Multinomial Naive Bayes] (https://www.mygreatlearning.com/blog/multinomial-naive-bayes-explained/)
+ Detail : [Multinomial Naive Bayes](https://www.mygreatlearning.com/blog/multinomial-naive-bayes-explained/)
